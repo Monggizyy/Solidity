@@ -34,5 +34,4 @@ So to try run this program here in https://remix.ethereum.org/. in here you can 
 So copy that code above then create a new file in the File Explorer then name the file. Then paste the code that I provided, after you paste it. Go to the "Solidity Compiler" on the left side click then compile it and go to "Deploy and Run Transaction" you will see there the functions BURN, MINT, BALANCES, tokenAbbrv, tokenName and the totalSupply. There you have it explore it and learn from it!
 
 # Author
-Dex Zyrius B. Dela Cruz
-2.1 BSIT
+**DELA CRUZ, DEX ZYRIUS B.**
